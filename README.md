@@ -2,8 +2,8 @@
 **`Cybersecurity Specialist (Lawyer/Certified Ethical Hacker)`**
 <br/>
 
-<p>Since I began my transition from cybersecurity specialist to machine learning and AI student, I have embarked on a transformative path driven by the desire to enhance technical skills and broaden my career horizons. By combining my strong legal background with my extensive experience in cybersecurity, I have seamlessly integrated the principles of digital defense into my coding and machine learning approaches. This fusion has not only enhanced my technical abilities but also brought substantial value to both my professional and personal projects, empowering me to tackle complex challenges with innovation and precision. 
-  
+<p>I am passionate about technology and continuous learning. With a strong foundation in cybersecurity and a deep dive into machine learning and AI, I am on a transformative path to enhance my technical skills and broaden my career horizons. By combining my legal background with extensive experience in cybersecurity, I seamlessly integrate the principles of digital defense into my coding and machine learning approaches. This fusion not only strengthens my technical capabilities but also adds substantial value to my professional and personal projects, enabling me to tackle complex challenges with innovation and precision.
+
 Always looking forward, I am driven by a passion for learning, innovation, and collaboration, ready to unlock new possibilities where the realms of machine learning and cybersecurity converge, shaping the future of digital security and technological advancement.</p>
 
 ---

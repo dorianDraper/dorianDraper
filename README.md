@@ -2,9 +2,13 @@
 **`Cybersecurity Specialist (Lawyer/Certified Ethical Hacker)`**
 <br/>
 
-<p>I am passionate about technology and continuous learning. With a strong foundation in cybersecurity and a deep dive into machine learning and AI, I am on a transformative path to enhance my technical skills and broaden my career horizons. By combining my legal background with extensive experience in cybersecurity, I seamlessly integrate the principles of digital defense into my coding and machine learning approaches. This fusion not only strengthens my technical capabilities but also adds substantial value to my professional and personal projects, enabling me to tackle complex challenges with innovation and precision.
+<p>I am passionate about technology, financial markets, and continuous learning. With a strong foundation in cybersecurity and a growing focus on data science and machine learning, I am expanding my expertise toward systematic and algorithmic trading.
 
-Always looking forward, I am driven by a passion for learning, innovation, and collaboration, ready to unlock new possibilities where the realms of machine learning and cybersecurity converge, shaping the future of digital security and technological advancement.</p>
+My professional background combines cybersecurity, risk management, and a legal foundation, allowing me to approach complex systems with a structured, analytical mindset. These disciplines have shaped the way I design and evaluate data-driven models, emphasizing robustness, risk awareness, and disciplined decision-making—principles that are equally critical in financial markets.
+
+Today, I am focused on developing quantitative research skills, building algorithmic strategies, and leveraging data analysis to better understand market behavior. By integrating programming, machine learning, and market research, I aim to create systematic approaches that transform data into actionable trading insights.
+
+Driven by curiosity and long-term learning, I am committed to exploring the intersection of technology, quantitative analysis, and financial markets while continuously refining the tools and methodologies that support robust trading strategies.</p>
 
 ---
 
@@ -16,8 +20,6 @@ Always looking forward, I am driven by a passion for learning, innovation, and c
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />

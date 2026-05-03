@@ -2,13 +2,14 @@
 **`Cybersecurity Specialist (Lawyer/Certified Ethical Hacker)`**
 <br/>
 
-<p>I am passionate about technology, financial markets, and continuous learning. With a strong foundation in cybersecurity and a growing focus on data science and machine learning, I am expanding my expertise toward systematic and algorithmic trading.
+<p>I work in cybersecurity risk and compliance, focusing on structured risk assessment, control design, and secure system evaluation in complex environments.
 
-My professional background combines cybersecurity, risk management, and a legal foundation, allowing me to approach complex systems with a structured, analytical mindset. These disciplines have shaped the way I design and evaluate data-driven models, emphasizing robustness, risk awareness, and disciplined decision-making—principles that are equally critical in financial markets.
+In parallel, I develop quantitative trading and data analysis skills, applying similar principles of risk management, robustness, and systematic decision-making to financial markets. This includes building and testing trading strategies, developing technical indicators in EasyLanguage (TradeStation), and analyzing market behavior using historical data.
 
-Today, I am focused on developing quantitative research skills, building algorithmic strategies, and leveraging data analysis to better understand market behavior. By integrating programming, machine learning, and market research, I aim to create systematic approaches that transform data into actionable trading insights.
+My work connects both domains: using a risk-driven and analytical approach to design, evaluate, and refine data-driven models. I am particularly interested in how structured methodologies from cybersecurity and risk management can be applied to systematic trading and quantitative research.
 
-Driven by curiosity and long-term learning, I am committed to exploring the intersection of technology, quantitative analysis, and financial markets while continuously refining the tools and methodologies that support robust trading strategies.</p>
+This GitHub reflects that progression, with a focus on practical experimentation, incremental improvement, and the development of reproducible trading logic.
+</p>
 
 ---
 

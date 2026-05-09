@@ -43,4 +43,4 @@ backtesting support, quantitative research)
 - Incremental development: ideas are documented, tested, and promoted
   only when they demonstrate statistical validity
 - Current focus: equity index futures (ES, NQ) with planned
-  expansion to CL, bonds, and FX
+  expansion to bonds and commidities (Gold, Silver)

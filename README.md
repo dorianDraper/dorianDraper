@@ -1,46 +1,46 @@
-# ⚡ Jorge Antonio Payà Albero ⚡
-**`Cybersecurity Specialist (Lawyer/Certified Ethical Hacker)`**
-<br/>
+# Jorge Antonio Payà Albero · dorianDraper
 
-<p>I work in cybersecurity risk and compliance, focusing on structured risk assessment, control design, and secure system evaluation in complex environments.
+**Cybersecurity & Risk professional building systematic trading systems.**
 
-In parallel, I develop quantitative trading and data analysis skills, applying similar principles of risk management, robustness, and systematic decision-making to financial markets. This includes building and testing trading strategies, developing technical indicators in EasyLanguage (TradeStation), and analyzing market behavior using historical data.
+I work in IS/IT Risk and Compliance by day — designing control frameworks,
+evaluating enterprise risk, and navigating regulatory complexity across
+global environments. Outside of that, I apply the same structured,
+risk-first thinking to quantitative finance: researching, designing,
+and testing algorithmic trading strategies for futures markets.
 
-My work connects both domains: using a risk-driven and analytical approach to design, evaluate, and refine data-driven models. I am particularly interested in how structured methodologies from cybersecurity and risk management can be applied to systematic trading and quantitative research.
-
-This GitHub reflects that progression, with a focus on practical experimentation, incremental improvement, and the development of reproducible trading logic.
-</p>
+This GitHub documents that second track.
 
 ---
 
-### 🧰 Languages and Tools
+## What I build here
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+The repositories follow a deliberate pipeline — from learning to research
+to production-ready systems:
 
-#
+| Repository | Purpose |
+|---|---|
+| [easylanguage-learning](https://github.com/dorianDraper/easylanguage-learning) | Structured learning path for EasyLanguage (TradeStation / MultiCharts): fundamentals, indicators, strategy architecture |
+| [systematic-trading-research](https://github.com/dorianDraper/systematic-trading-research) | Research lab: paper replications, experiments, hypothesis testing before promotion to production |
+| algorithmic-trading-strategies *(in progress)* | Validated, production-ready strategies organized by category |
 
+---
 
+## Tools and languages
 
-<!--
-**dorianDraper/dorianDraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![EasyLanguage](https://img.shields.io/badge/EasyLanguage-TradeStation-blue)
+![Python](https://img.shields.io/badge/Python-data%20%26%20analysis-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-version%20control-F05032?logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+**Primary focus:** EasyLanguage (strategy development), Python (data analysis,
+backtesting support, quantitative research)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-👋
--->
+---
+
+## Approach
+
+- Strategy design grounded in robustness testing and out-of-sample validation
+- Risk management as a first-class component, not an afterthought
+- Incremental development: ideas are documented, tested, and promoted
+  only when they demonstrate statistical validity
+- Current focus: equity index futures (ES, NQ) with planned
+  expansion to CL, bonds, and FX
